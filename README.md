@@ -1,6 +1,6 @@
 
 # Trends in TMDb Movie Data
-## Introduction
+
 The Trends in TMDb Movie Data project explores a dataset containing information about 10,000 movies from TMDb, a popular movie database. This README provides an overview of the project, including its goals, data wrangling steps, exploratory data analysis, and conclusions drawn from the analysis.
 
 ## Introduction
