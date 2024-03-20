@@ -3,12 +3,6 @@
 ## Introduction
 The Trends in TMDb Movie Data project explores a dataset containing information about 10,000 movies from TMDb, a popular movie database. This README provides an overview of the project, including its goals, data wrangling steps, exploratory data analysis, and conclusions drawn from the analysis.
 
-## Table of Contents
-Introduction
-Data Wrangling
-Exploratory Data Analysis
-Conclusions
-
 ## Introduction
 The dataset consists of various attributes for each movie, such as its title, release year, popularity, budget, revenue, genres, production companies, and more. The project aims to answer several questions about trends in movie data using exploratory data analysis techniques.
 
